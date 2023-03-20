@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 kind: ENHANCEMENTS
 body: 'helper/id: New `helper/id` package added. `resource.PrefixedUniqueId()` and
   `resource.UniqueId()` are deprecated, `helper/id` should be used instead. `helper/resource`
